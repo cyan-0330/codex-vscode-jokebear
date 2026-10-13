@@ -1,0 +1,14 @@
+/.cache/
+/artifacts/
+/bin/
+/bin-staging/
+/data/
+/runtime/
+/petdex-runtime/
+/petdex-integration.json
+/tests/tmp/
+**/__pycache__/
+*.log
+*.tmp
+*.backup-*
+*.user

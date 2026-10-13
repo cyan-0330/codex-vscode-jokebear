@@ -1,0 +1,7 @@
+{
+  "name": "codex-vscode-jokebear",
+  "version": "1.0.0",
+  "description": "JokeBear desktop pet with VS Code Codex approval balloons and independent conversation status lights.",
+  "license": "MIT",
+  "platform": "win32-x64"
+}

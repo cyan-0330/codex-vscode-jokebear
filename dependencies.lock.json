@@ -1,0 +1,23 @@
+{
+  "python": {
+    "version": "3.13.7",
+    "fileName": "python-3.13.7-embed-amd64.zip",
+    "url": "https://www.python.org/ftp/python/3.13.7/python-3.13.7-embed-amd64.zip",
+    "sha256": "f6cca216a359be84797cabb54149ce5e062afb16cc7567eb7fc51cacb2d86b65"
+  },
+  "petdex": {
+    "version": "0.9.2",
+    "fileName": "petdex-desktop-win32-x64.exe",
+    "url": "https://github.com/crafter-station/petdex/releases/download/desktop-v0.9.2/petdex-desktop-win32-x64.exe",
+    "sha256": "97f5b1db476b74d2b3be4b0bae3f67a0689f0068be2657c4b41cd2406e199e78"
+  },
+  "sprite": {
+    "id": "jokebear-codexpet",
+    "fileName": "jokebear-spritesheet.webp",
+    "url": "https://assets.petdex.dev/pets/jokebear-codexpet-c09688a19f19/sprite.webp",
+    "sha256": "86662b0ad39947c5ba2b732d7626e4bbda89ecacc68d484eae75053d1f6c44c9"
+  },
+  "artwork": {
+    "description": "An unofficial Codex desktop-pet fan adaptation based on JokeBear, an IP character created by Nagono, with calm and frustrated typing, coffee, burger, resting, a static jump fallback, and 16-direction look animations."
+  }
+}
